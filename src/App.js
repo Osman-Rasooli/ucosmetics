@@ -1,9 +1,10 @@
+import React from 'react';
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <span>Subscribe Zainkeepscode</span>
+      <span>OSMAN</span>
     </div>
   );
 }
