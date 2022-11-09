@@ -20,7 +20,7 @@ const Header = () => {
             <li>ENG</li>
           </ul>
         </div>
-        <input type="text" className={classes.search} />
+        <input type="text" placeholder="Search" className={classes.search} />
         <RiShoppingCart2Fill className={classes.cart} />
       </div>
     </div>
