@@ -24,7 +24,7 @@ const Hero = () => {
           <RiShoppingBag3Fill />
           <div className={classes.signUp}>
             <span>Best SignUp Offers</span>
-            <div></div>
+            <div> &rarr;</div>
           </div>
         </div>
       </div>
