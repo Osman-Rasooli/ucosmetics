@@ -7,9 +7,9 @@ const Hero = () => {
     <div className={classes.container}>
       {/* Left Side */}
       <div className={classes.h_sides}>
-        <span>skin protection cream</span>
+        <span className={classes.text1}>skin protection cream</span>
         <div className={classes.text2}>
-          <span>Trendy Collections</span>
+          <span className={classes.text2}>Trendy Collections</span>
           <span>
             Seedily say has suitable disposal and boy. Excersie man child
             rejoiced.
